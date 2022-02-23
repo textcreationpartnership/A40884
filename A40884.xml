@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The information of Francisco de Faria, delivered at the bar of the House of Commons, Munday the first day of November, in the year of our Lord, 1680</title>
+            <author>Faria, Francisco de, b. 1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40884</idno>
+            <idno type="STC">Wing F425</idno>
+            <idno type="STC">ESTC R16386</idno>
+            <idno type="EEBO-CITATION">13152585</idno>
+            <idno type="OCLC">ocm 13152585</idno>
+            <idno type="VID">98114</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40884)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98114)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 416:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The information of Francisco de Faria, delivered at the bar of the House of Commons, Munday the first day of November, in the year of our Lord, 1680</title>
+                  <author>Faria, Francisco de, b. 1653.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill, Thomas Newcomb, and Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Perused and signed to be printed according to the order of the House of Commons, by me William Williams, speaker"</note>
+                  <note>Royal coat of arms on t.p.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:98114:1" rendition="simple:additions"/>
+            <p>I Appoint <hi>Thomas Newcomb,</hi> and <hi>Henry Hills,</hi> to Print this Informa<g ref="char:EOLhyphen"/>tion, According to the Order of the HOUSE OF COMMONS; And that no other Perſon preſume to Print the ſame. <hi>Novemb.</hi> 10<hi rend="sup">th</hi> 1680.</p>
+            <p>Wi WILLIAMS, <hi>Speaker.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:98114:1" rendition="simple:additions"/>
+            <p>The INFORMATION OF Franciſco de Faria, Delivered at the BAR of the HOUSE OF <hi>COMMONS, Munday</hi> the Firſt day of <hi>November,</hi> in the year of our Lord, 1680.</p>
+            <p>Peruſed and Signed to be Printed, accord<g ref="char:EOLhyphen"/>ing to the Order of the Houſe of Commons, <hi>BY ME William Williams,</hi> Speaker.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſigns of <hi>John Bill, Thomas Newcomb,</hi> and <hi>Henry Hills,</hi> Printers to the Kings moſt Excellent Majeſty, 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:98114:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:98114:2" rendition="simple:additions"/>
+            <head>THE INFORMATION OF FRANCISCO de FARIA,</head>
+            <argument>
+               <p>Born in <hi>America,</hi> Son of <hi>John de Faria</hi> a Jew, of St. <hi>Giles</hi> in the Fields Gent, Taken upon Oath before Me <hi>Edmund Warcupp</hi> 
+                  <abbr>Eſq</abbr> one of His Majeſties Juſtices of the Peace in the ſaid County and City, in preſence of <hi>John Arnold</hi> Eſquire, by Command of the Right Ho<g ref="char:EOLhyphen"/>norable the Lords Committees, for Diſ<g ref="char:EOLhyphen"/>covery of the late Popiſh Plot <hi>26. Octob. l680.</hi>
+               </p>
+            </argument>
+            <p>THis Informant ſaith, That, being a Limner in <hi>Antwerp</hi> in <hi>Flanders,</hi> in the year 1675. by the perſuaſion of Three of the Siſters of Sir <hi>George Wakeman,</hi> then in the Nunnery of Sta. <hi>Tereſia,</hi> and of Father <hi>Worſely</hi> a Jeſuit, he be<g ref="char:EOLhyphen"/>came a <hi>Roman Catholick,</hi> and often, communi<g ref="char:EOLhyphen"/>cated at his hand. And the ſaid <hi>Worſely</hi> then per<g ref="char:EOLhyphen"/>ſuaded this Informant to come into <hi>England,</hi> and he would make this Informant happy, and then gave this Informant 35 Piſtols in Gold, to bear this Informant's charges for <hi>England.</hi> But this Inform<g ref="char:EOLhyphen"/>ant did not immediately follow him to <hi>England,</hi>
+               <pb n="2" facs="tcp:98114:3" rendition="simple:additions"/>but took up Arms, and was a Captain Lievte<g ref="char:EOLhyphen"/>nant under Colonel <hi>Montgomery,</hi> in the Prince of <hi>Orange</hi>'s Service, where he practiſed to make and throw hand-Granadoes, and grew to ſome note for that Service; and in the year 1678, this In<g ref="char:EOLhyphen"/>formant being in <hi>England,</hi> and well verſed in Seven or Eight Languages was preferred to be Interpreter and Secretary of Languages to <hi>Gaſpar Abrew de Freitas</hi> Ambaſſador in ordinary from the Prince of <hi>Portugal</hi> to the King of <hi>England.</hi> To which Ambaſſador this Informant had been known for many years before and the ſaid Ambaſ<g ref="char:EOLhyphen"/>ſador among other things, acquainted this In<g ref="char:EOLhyphen"/>formant, that <hi>Don Franciſco de Melos</hi> the late Am<g ref="char:EOLhyphen"/>baſſador that died here was much out of favour with the Prince of <hi>Portugal,</hi> for that he had in<g ref="char:EOLhyphen"/>diſcreetly puſhed on, the Promotion of the Ca<g ref="char:EOLhyphen"/>tholick Religion before a due time, and had cauſed ſeveral Popiſh Books to be Printed in <hi>Eng<g ref="char:EOLhyphen"/>liſh,</hi> which had given too great alarm, with many other things relating to the Popiſh Reli<g ref="char:EOLhyphen"/>gion, which he greatly condemned him for; And the ſaid Ambaſſador, to indear this Infor<g ref="char:EOLhyphen"/>mant, did often give him Money and intruſt<g ref="char:EOLhyphen"/>ed him in Affairs of the greateſt Moment, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd carried this Informant with him, to all or moſt of the great Miniſters of State in <hi>England,</hi> uſing him for his Interpreter; and employed this In<g ref="char:EOLhyphen"/>formant to reſort to ſeveral Perſons for an ac<g ref="char:EOLhyphen"/>count of the Orders and Paſſages in the Kings Council, of all which the ſaid Ambaſſador uſu<g ref="char:EOLhyphen"/>ally had an account within an hour after the ri<g ref="char:EOLhyphen"/>ſing of the Council, or any Committees. And the ſaid Ambaſſador, much about the time of the Trial of the Five Jeſuits, expreſſing a great <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rrow, for the oppreſſion of the Catholicks,
+<pb n="3" facs="tcp:98114:3" rendition="simple:additions"/>did wiſh that <hi>Oates</hi> and <hi>Bedlow</hi> were made away; And then commanded this Informant to go to Maſs and Confeſſion, and then told this Infor<g ref="char:EOLhyphen"/>mant, that he might do the Catholick Cauſe great Service, and might make his own Fortune, if he would joyn in deſtroying <hi>Oates</hi> and <hi>Bedlow,</hi> and that 50000 <hi>Reales d'ocho</hi> ſhould be gi<g ref="char:EOLhyphen"/>ven for that Service, and that two ſufficient men ſhould joyn with this Informant for the killing of <hi>Oates</hi> and <hi>Bedlow;</hi> But the ſaid <hi>Bedlow</hi> being a<g ref="char:EOLhyphen"/>bout that time in <hi>Ireland</hi> the ſaid Murder was deferred, and a report being ſpread, that <hi>Bedlow</hi> was dead in <hi>Ireland,</hi> the ſaid Lord Ambaſſador ſaid to this Informant, What a Fool were you! had you killed him, you had gained that Mo<g ref="char:EOLhyphen"/>ney which I promiſed: But afterwards under<g ref="char:EOLhyphen"/>ſtanding that <hi>Bedlow</hi> was not dead, the ſaid Am<g ref="char:EOLhyphen"/>baſſador renewed his Solicitations to this Infor<g ref="char:EOLhyphen"/>mant to proſecute the death of <hi>Oates</hi> and <hi>Bedlow,</hi> aſſuring this Informant, That he would make good his promiſe of the ſaid Sum of Money to them, which ſhould kill them; That he would be<g ref="char:EOLhyphen"/>ſides, pay this Informants Debts, and take this Informant with him into <hi>Portugal.</hi> Upon which Diſcourſe, this Informant took the boldneſs to tell the Ambaſſador, That the Death of <hi>Godfrey</hi> had done much hurt to the Catholick Intereſt, and he much feared, that the death of <hi>Oates</hi> and <hi>Bedlow</hi> would bring greater hurt. To which the Ambaſſador replyed, he feared not that; and if <hi>Oates</hi> and <hi>Bedlow</hi> and <hi>Shaftsbury</hi> were out of the way, the Parliament might come when they pleaſe. Whereupon this Informant asked, How ſhall <hi>Shaftsbury</hi> be killed? He replyed, Lord <hi>Shaftsbury</hi> goes often into the Country, and I know you are excellent at hand-Granadoes, you
+<pb n="4" facs="tcp:98114:4" rendition="simple:additions"/>ſhall throw one of them into <hi>Shaftsbury</hi>'s Coach, which will deſtroy all that are in the Coach upon the breaking, and you and your Companions ſhall alſo have Fire Arms to kill, if the other do not full Execution. And the Ambaſſador ad<g ref="char:EOLhyphen"/>ded, that he had provided Two other Perſons, Men of Honour, to joyn with this Informant in that Service, but named them not, nor the re<g ref="char:EOLhyphen"/>ward that was promiſed to be given for it; And then ordered this Informant to provide a Man who could ſpeak <hi>French</hi> and <hi>Dutch</hi> to carry a Letter into <hi>Flanders;</hi> Whereupon this Informant applied himſelf to one <hi>Salter,</hi> who keeps a Semp<g ref="char:EOLhyphen"/>ſters Shop in <hi>Drury-Lane,</hi> to carry the Letter: Who ſaying, he could not go, becauſe he had Horſes lame; which this Informant's Servant ob<g ref="char:EOLhyphen"/>ſerving, ſaid Sir, If you pleaſe my Husband ſhall go; But this Informant refuſed him as not ſpeak<g ref="char:EOLhyphen"/>ing <hi>French,</hi> nor acquainted with the Country. And this Informant did (according to the Ambaſ<g ref="char:EOLhyphen"/>ſador's Order) offer the ſaid <hi>Salter</hi> 10. <hi>l.</hi> to un<g ref="char:EOLhyphen"/>dertake the Journey, becauſe he was acquaint<g ref="char:EOLhyphen"/>ed with the Country, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>February</hi> laſt paſt, the ſaid Ambaſſador left <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and returned to <hi>Portugal,</hi> leaving this In<g ref="char:EOLhyphen"/>formant on a ſudden with very little Money, af<g ref="char:EOLhyphen"/>ter his many promiſes to take this Informant with him into <hi>Portugal,</hi> and to get the Prince to pro<g ref="char:EOLhyphen"/>vide plentifully for him in <hi>Portugal.</hi> Upon which this Informant recollecting the ſaid form<g ref="char:EOLhyphen"/>er paſſages, and fearing leſt he ſhould be accuſ<g ref="char:EOLhyphen"/>ed, though innocent, went to his own Father, declaring the offers made to this Informant for the killing the Perſons aforeſaid; but his Father and Mother adviſed him to throw Aſhes upon it, for none that have diſcover'd are ſecure, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="5" facs="tcp:98114:4" rendition="simple:additions"/>ſome are of one mind and ſome of ano<g ref="char:EOLhyphen"/>ther; And this Informant then left a Note with his Mother, ſignifying that if this Informant were killed, it muſt be by the <hi>Portugals,</hi> and he would lay his Death to them, becauſe of the paſſages a<g ref="char:EOLhyphen"/>foreſaid; and did the like with Mrs. <hi>Mary Seares,</hi> who finding this Informant in a very diſturbed condition, obſerving that in his Frenzy fits he ſpoke of the Death of <hi>Oats, Bedlow</hi> and <hi>Shaftsbury;</hi> ſo far prevailed with this Informant when out of his Frenzy fits, as to make him relate the whole Sto<g ref="char:EOLhyphen"/>ry to her, who then perſuaded this Informant to keep all ſecret, leſt he brought himſelf into Troubles. But this Informant hearing about the 16th. of <hi>April</hi> laſt, That a certain Gentleman of note was wounded almoſt to Death, did recollect that one <hi>Wyard</hi> had tempted him to Baſtinado ſuch a kind of Perſon, which this Informant had before, <hi>viz.</hi>
+            </p>
+            <p>In the beginning of <hi>March,</hi> told unto the ſaid <hi>Mrs. Mary Seares,</hi> for an account whereof this Informant refers himſelf to his Information ta<g ref="char:EOLhyphen"/>ken before Sir <hi>Philip Mathews,</hi> a Copy whereof this Informant delivered this day to the ſaid Committee of Lords: And this Informant did alſo repair about the firſt of <hi>May</hi> laſt to the Earl of <hi>Clarendon,</hi> and in writing gave the ſaid Earl under his hand, a Paper containing the matter about the wounding the ſaid Gentleman, and hopes the ſaid Earl will produce the ſaid Paper, to which this Informant refers. To which this Informant added by word of mouth, That the Earl of <hi>Shaftsbury</hi> was in danger of his Life: to which Earl this Informant repaired, becauſe he was going into <hi>Flanders,</hi> and fearing he might be accuſed for the wounding of the ſaid Gentle<g ref="char:EOLhyphen"/>man,
+<pb n="6" facs="tcp:98114:5" rendition="simple:additions"/>during his abſence, That that writing deli<g ref="char:EOLhyphen"/>vered to the Earl of <hi>Clarendon</hi> might clear his Innocency; And this Informant farther ſaith, That the Lady <hi>Abergavenny</hi> ſent for this Infor<g ref="char:EOLhyphen"/>mant into <hi>Lincolns-Inn-fields</hi> this laſt Summer was a twelve month; And then told this Infor<g ref="char:EOLhyphen"/>mant, The Lord <hi>Powis</hi> would ſpeak with him in the <hi>Tower:</hi> To which this Informant anſwered, He would; but acquainting the ſaid Ambaſſador therewith, His Excellency forbid him to go: wherewith this Informant alſo acquainted the ſaid Earl of <hi>Clarendon,</hi> who ſeemed to know the Lady <hi>Abergavenny,</hi> ſaying, She was his Neighbour; and he farther ſaith, That a certain Perſon came to the Ambaſſador, and in this Informant's pre<g ref="char:EOLhyphen"/>ſence, told the Ambaſſador, That one <hi>Roberts</hi> Porter to the Water-gate at <hi>Somerſet-houſe</hi> was Apprehended, upon which this Informant ob<g ref="char:EOLhyphen"/>ſerved the Ambaſſador to look very pale, and thereupon asked the Ambaſſador, My Lord, Is he concerned in this buſineſs with me? To which the Ambaſſador replyed, He is a man of Courage, and will undertake any thing.</p>
+            <p>And in <hi>May</hi> laſt, this Informant's Brother, <hi>A<g ref="char:EOLhyphen"/>braham de Faria</hi> coming to <hi>London,</hi> this Infor<g ref="char:EOLhyphen"/>mant told the Ambaſſador of it; Who asked if he were a <hi>Catholick:</hi> and being anſwered thereto, His Excellency asked if he were a Man of Cou<g ref="char:EOLhyphen"/>rage. Whereunto this Informant replied, We are all well born and bred. And His Lordſhip replied, I would have him in this Affair with us, were I ſure of him: and commanded this In<g ref="char:EOLhyphen"/>formant to ſend him to him. And this Infor<g ref="char:EOLhyphen"/>mant told his ſaid Brother, that the Ambaſſador would ſpeak with him. But this Informant was not with him when he went to the Ambaſſador,
+<pb n="7" facs="tcp:98114:5" rendition="simple:additions"/>nor knoweth what paſſed between them. And this Informant ſaith, That upon the day of Sir <hi>George Wakeman's</hi> Trial, the Ambaſſador ſent him in his Coach to wait upon the Lord Chief Juſtice <hi>Scroggs,</hi> and ſent up word by one of his Gentle<g ref="char:EOLhyphen"/>men, That one from the <hi>Portugal</hi> Ambaſſador would ſpeak with him. The Servant brought anſwer, That he could not ſee the Ambaſſador that day, becauſe he ſhould be engaged upon the Trial of Sir <hi>George Wakeman</hi> all the day. Which the Ambaſſador being acquainted with, his Lord<g ref="char:EOLhyphen"/>ſhip ſent this Informant to hear the Trial. And this Informant ſtood by Sir <hi>George</hi> all the time, and gave him white Paper to write upon: and employed one Mr. <hi>Cooper</hi> a Scrivener in <hi>Drury-Lane</hi> to take in Writing the Trial, and gave him 20 <hi>s.</hi> for his pains: which this Informant deli<g ref="char:EOLhyphen"/>vered to the Ambaſſador; who immediately ſent it to the Queen then at <hi>Windſor:</hi> with which, and a Letter, this Informant ſhould have gone to <hi>Windſor,</hi> had he not been very weary. And that ſame night this Informant was ſent to Sir <hi>George Wakeman</hi>'s in <hi>St. Martins-Lane,</hi> to Comple<g ref="char:EOLhyphen"/>ment him on the Ambaſſadors part: but he was not then come to his Lodging in <hi>St. Martins-Lane.</hi> So this Informant went next morning, and found him in bed with his Wife, and (as this Informant was Commanded) told him from the Ambaſſador, That his Fortune and Eſtate was at his ſervice, and ſo was his Prince's; and the Prayers of the good Catholicks have prevailed for your delivery; and we are all bound to Sir <hi>Philip Lloyd</hi> for his Generoſity to you at the Trial: and we are all bound to pray for him. Whereunto Sir <hi>George Wakeman</hi> replied, If it had not been for him, I had not been ſaved: and
+<pb n="8" facs="tcp:98114:6" rendition="simple:additions"/>ſo we are all bound to pray for him. And I pray return my Lord many thanks for his Offers: and that he would wait on his Excellency that very day, to give him thanks for his Favours: but that he muſt firſt go to <hi>Windſor,</hi> to wait on the Queen: but at his Return he would wait on his Excellen<g ref="char:EOLhyphen"/>cy. And Sir <hi>George</hi> then took this Informant by the hand, and ſaid, I am ſorry, Mr. <hi>Faria,</hi> that I had not the happineſs to ſpeak with you be<g ref="char:EOLhyphen"/>fore: For I am informed what a Man you are; and that you could do great Service for the Catholicks: But alas! it is now too late. Thence this Informant went again, by Order, to the Lord Chief Juſtice <hi>Scroggs,</hi> to know when my Lord Ambaſſador ſhould Viſit him. The Lord <hi>Scroggs</hi> anſwered, That the Ambaſſador would do him great Honour to Viſit him, but he was that day to go out of Town by One of the Clock. Wherewith the Ambaſſador being ac<g ref="char:EOLhyphen"/>quainted, he went about Twelve in his Sedan, with a Coach of State, wherein this Informant was, to the Lord <hi>Scroggs</hi> in <hi>Chancery-Lane.</hi> The Complement was in <hi>Portugueze</hi> (and this Infor<g ref="char:EOLhyphen"/>mant Interpreted) to this effect: My Lord, I come to Viſit you as you are a Miniſter of State; and am ſent as Ambaſſador from the Prince of <hi>Portu<g ref="char:EOLhyphen"/>gal,</hi> to the King of <hi>Great Britain,</hi> and am di<g ref="char:EOLhyphen"/>rected to Viſit you; and am likewiſe to thank you for the Juſtice you have done Yeſterday to Sir <hi>George Wakeman.</hi> To which the Lord <hi>Scroggs</hi> anſwered, I am placed to do Juſtice, and will not be curbed by the Vulgar: and ſo I thank your Prince, and your ſelf for the great Honour you have done me. And this Informant farther ſaith, That a <hi>Portugueze</hi> came to him, when the Earl of <hi>Oſſory</hi> was to go for <hi>Tangier,</hi> offering this Infor<g ref="char:EOLhyphen"/>mant,
+<pb n="9" facs="tcp:98114:6" rendition="simple:additions"/>that he might go with the ſaid Earl, as his Interpreter, and ſhould have 300 <hi>l. per Annum</hi> for his pains. But this Informant reflecting, That the Sum offered was too big for that Service, believ<g ref="char:EOLhyphen"/>ed this was a Snare to take away his Life. The ſame <hi>Portugueze</hi> offered him to go for <hi>Flanders,</hi> where <hi>Monſieur Fonſec</hi> might prefer him to the Prince of <hi>Parma.</hi> But he looked upon that as a Snare alſo, and therefore refuſed. And this In<g ref="char:EOLhyphen"/>formant ſaith, That about 6 Months ago he was aſſaulted by Two unknown Perſons, with their Swords drawn; but he happily eſcaped from them. And farther ſaith not.</p>
+            <closer>
+               <signed>Franciſco de Faria.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>The Information that the ſaid Infor<g ref="char:EOLhyphen"/>mant gave to the Lord <hi>Clarendon,</hi> the 1. day of <hi>May, Anno Dom.</hi> 1680.</head>
+            <argument>
+               <p>The Information of <hi>Francis de Faria</hi>
+                  <note place="margin"> Com. Midd.</note> of St. <hi>Giles</hi> in the Fields, Gent. Taken upon Oath before Sir <hi>Philip Mathews</hi> Bar. One of His Majeſties Juſtices of the Peace for the ſaid County, Aſſigned this <hi>15</hi> day of <hi>July. 1680.</hi>
+               </p>
+            </argument>
+            <p>THis Informant on his Oath ſaith, That a<g ref="char:EOLhyphen"/>bout the latter end of <hi>March,</hi> or the begin<g ref="char:EOLhyphen"/>ning of <hi>April</hi> laſt paſt, a Gentleman who called himſelf Mr. <hi>Wyard,</hi> came to this Informant at <hi>Will</hi>'s Coffee-Houſe in <hi>Covent-Garden,</hi> and ſpake
+<pb n="10" facs="tcp:98114:7" rendition="simple:additions"/>very kindly to this Informant, and deſired this Informant to go to a Tavern and drink a Glaſs of Wine with him: Which this Informant conſented unto, and went out of the Coffee-Houſe with him, and deſired him to go to the <hi>Roſe</hi>-Tavern in <hi>Bridges-ſtreet:</hi> But he deſired to go farther. At the <hi>Horſe-Shoe</hi> Tavern this Informant deſired the ſaid <hi>Wyard</hi> to go in thither; But he there deſired to go farther, and ſo drilled this Informant on into <hi>Grays-Inn</hi> Walks: Which this Informant conſented unto. And in Diſcourſe he there told this Informant, that this Informant had his For<g ref="char:EOLhyphen"/>tune in his hand. This Informant ask'd him, In What? The ſaid <hi>Wyard</hi> replied, He knew my wants: If you will but Cudgel a Man, you ſhall have 200 <hi>l.</hi> One Hundred in hand, and the other Hundred when the Work or Buſineſs is done. To which this Informant replied, That that might be done by a Porter for a Shilling. To which the ſaid <hi>Wyard</hi> replied, You may believe, by the Sum that is offered, that there is ſome<g ref="char:EOLhyphen"/>thing more to be done beſides Cudgelling. And when you have done, you ſhall have a better Re<g ref="char:EOLhyphen"/>ward.</p>
+            <p>To which this Informant replyed, He ſcorn'd ſuch unworthy and baſe Propoſals; and utterly refuſed to treat with him about it. Then the ſaid <hi>Wyard</hi> deſired this Informant to go and ſpeak with the Lord <hi>Powis</hi> in the <hi>Tower.</hi> To which this Informant anſwered, That he had no buſi<g ref="char:EOLhyphen"/>neſs with the Lord <hi>Powis,</hi> nor the Lord <hi>Powis</hi> any with him, as he knew of. Who then ſhewed this Informant a Letter from the Lord <hi>Powis</hi> to this Informant: which Letter was to this effect,</p>
+            <p>
+               <hi>Mr.</hi> de Faria, <hi>Come to me to the</hi> Tower, <hi>and ſpeak with me: but let no body know who you are.</hi>
+            </p>
+            <pb n="11" facs="tcp:98114:7" rendition="simple:additions"/>
+            <p>The ſaid Mr. <hi>Wyard,</hi> when he found this In<g ref="char:EOLhyphen"/>formant utterly refuſed to go to the Lord <hi>Powis,</hi> or to treat in the ſaid buſineſs any farther, the ſaid <hi>Wyard</hi> then told this Informant, He would meet this Informant in the ſame place on the morrow; and would then bring this Informant a Letter from a Perſon of Quality, whoſe hand this Informant did well know: and that this In<g ref="char:EOLhyphen"/>formant had Papers then in his pocket, under the ſaid Perſons hand. And on the morrow the ſaid <hi>Wyard</hi> did meet this Informant in the ſaid place, and then ſhewed him a Letter writ in the <hi>Portugueze</hi> Language, which contained theſe words, being into <hi>Engliſh</hi> Tranſlated.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <salute>Francis,</salute>
+                  <p>Do what this man bids you; for it ſhall be well done.</p>
+                  <closer>
+                     <signed>Subſcribed <hi>G. A. B.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>And this Informant farther ſaith, That he knew the Hand, and did compare with ſome Papers he had in his Pocket, then ſigned by the ſame Hand. But notwithſtanding the ſaid Letter, this Infor<g ref="char:EOLhyphen"/>mant utterly refuſed to treat about the ſaid buſi<g ref="char:EOLhyphen"/>neſs any farther.</p>
+            <p>The ſaid <hi>Wyard</hi> then deſired this Informant to meet him the next day again, and took his leave. And this Informant being deſirous to know who the ſaid <hi>Wyard</hi> was, and where he lay, followed the ſaid <hi>Wyard</hi> down <hi>Chancery-Lane,</hi> and into <hi>Curſitors-Alley,</hi> and into ſeveral turnings, but loſt ſight of him. And the next day this Informant went to the ſame place, to meet the ſaid <hi>Wyard,</hi> but the ſaid <hi>Wyard</hi> came not; nor could this In<g ref="char:EOLhyphen"/>formant ever ſince find the ſaid <hi>Wyard,</hi> or hear of him, though he hath made a great and gene<g ref="char:EOLhyphen"/>ral Enquiry after him: But ſaith, He could know him again if he could ſee him. And farther,
+<pb n="12" facs="tcp:98114:8" rendition="simple:additions"/>this Informant ſaith, That He the ſame day de<g ref="char:EOLhyphen"/>clared unto one Monſieur <hi>Camaſh,</hi> That he was offered 200 <hi>l.</hi> to Cudgel a man. And alſo ſaith, That being apprehenſive that he might be called in queſtion after Mr. <hi>Arnold</hi> was Aſſaulted, the ſaid Monſieur <hi>Camaſh</hi> having charged him with it, and with receiving of the ſaid 200 <hi>l.</hi> This Infor<g ref="char:EOLhyphen"/>mant went unto the Right Honourable the Earl of <hi>Clarendon,</hi> about the firſt day of <hi>May,</hi> and deſired his Honour to take his Information in Writing, (this Informant being to go into <hi>Flanders</hi>) which the ſaid Earl did; and this Informant ſet his hand to it. And farther at preſent ſaith not.</p>
+            <closer>
+               <signed>Signed, <hi>Franciſco de Faria.</hi> 
+               </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Jurat coram me,</hi> Philip Mathews,<date>15 July 1680.</date>
+               </p>
+               <p>This laſt Information only was Sworn before Sir <hi>Philip Mathews.</hi>
+               </p>
+               <closer>
+                  <signed>Franciſco de Faria.</signed>
+               </closer>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:98114:8" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
